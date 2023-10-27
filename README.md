@@ -1,6 +1,8 @@
 **Storage for my Neovim config**
 
-## Install [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
+First, you'll need to [Install Lua](https://www.lua.org/download.html)
+
+### Install [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
 [I use Packer](https://github.com/wbthomason/packer.nvim) as my plugin manager, so you'll need at least Neovim v0.5.0+
 
@@ -11,13 +13,13 @@ sudo add-apt-repository ppa:neovim-ppa/unstable -y
 sudo apt update
 sudo apt install neovim
 ```
-## Clone
+### Clone
 Clone this repo into the default configuration directory for your system.
 
 * Linx - `~/.config/(clone here)`
 * Windows - `%LocalAppData%\(clone here)`
 
-## Install Packer
+### Install Packer
 
 ### For Linux
 ```shell
