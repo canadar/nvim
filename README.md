@@ -33,3 +33,11 @@ git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data
 ```
 
 From here, if you have Neovim open, restart Neovim and navigate to lua/plugin and open `plugins.lua`. Use the `:so` command to source the file, and you should be able to run `:PackerSync` to install all of the plugins. Restart once again and you should be good to go! 👍
+
+To use the special icons in Neotree, you'll need a supported font - I use [Nerd Fonts](https://www.nerdfonts.com/)
+
+### Final Result:
+![image](https://github.com/canadar/nvim/assets/5797252/ffbb2e63-b64b-42b7-8e19-833b7323e99f)
+
+
+
