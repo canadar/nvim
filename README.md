@@ -2,9 +2,11 @@
 
 # Setup
 
-## Install Neovim
+## Install [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
 [I use Packer](https://github.com/wbthomason/packer.nvim) as my plugin manager, so you'll need at least Neovim v0.5.0+
+
+How I install Neovim for WSL Ubuntu 20.04
 
 ```shell
 sudo add-apt-repository ppa:neovim-ppa/unstable -y
